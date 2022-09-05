@@ -1,4 +1,4 @@
-package com.yupi.usercenter;
+package com.jcjc.usercenter;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;

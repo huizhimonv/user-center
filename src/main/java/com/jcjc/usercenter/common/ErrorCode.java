@@ -1,4 +1,4 @@
-package com.yupi.usercenter.common;
+package com.jcjc.usercenter.common;
 
 /**
  * 错误码

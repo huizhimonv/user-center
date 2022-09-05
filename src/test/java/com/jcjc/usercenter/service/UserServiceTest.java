@@ -1,14 +1,11 @@
-package com.yupi.usercenter.service;
-import java.util.Date;
+package com.jcjc.usercenter.service;
 
-import com.yupi.usercenter.model.domain.User;
+import com.jcjc.usercenter.model.domain.User;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import javax.annotation.Resource;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 /*
 用户服务测试

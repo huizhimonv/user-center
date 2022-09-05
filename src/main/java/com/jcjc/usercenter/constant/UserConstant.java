@@ -1,4 +1,4 @@
-package com.yupi.usercenter.constant;
+package com.jcjc.usercenter.constant;
 
 public interface UserConstant {
 

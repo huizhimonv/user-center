@@ -1,6 +1,6 @@
-package com.yupi.usercenter.service;
+package com.jcjc.usercenter.service;
 
-import com.yupi.usercenter.model.domain.User;
+import com.jcjc.usercenter.model.domain.User;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 import javax.servlet.http.HttpServletRequest;

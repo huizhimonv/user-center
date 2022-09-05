@@ -1,6 +1,6 @@
-package com.yupi.usercenter.exception;
+package com.jcjc.usercenter.exception;
 
-import com.yupi.usercenter.common.ErrorCode;
+import com.jcjc.usercenter.common.ErrorCode;
 
 /**
  * 自定义异常类

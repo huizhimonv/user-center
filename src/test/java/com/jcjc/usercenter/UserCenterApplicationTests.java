@@ -1,4 +1,4 @@
-package com.yupi.usercenter;
+package com.jcjc.usercenter;
 
 
 

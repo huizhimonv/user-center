@@ -1,4 +1,4 @@
-package com.yupi.usercenter.model.domain;
+package com.jcjc.usercenter.model.domain;
 
 import com.baomidou.mybatisplus.annotation.*;
 
